@@ -10,7 +10,7 @@
         },
         "SITE_URL": {
             "description": "网站 URL, 比如 https://example.com, 这个地址会在程序中的某些地方使用，如果不设置这个字段，一些功能可能无法正常工作",
-            "required": false,
+            "required": true,
             "value": "https://acloud.aptzone.cc"
         },
         "TZ": {
